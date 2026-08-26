@@ -1,0 +1,8 @@
+{
+  "name": "Kupat Tahu Magelang Lembah Tidar",
+  "description": "Website resmi Kupat Tahu Magelang Lembah Tidar di Jalan Raya Kalisuren (Depan Perumahan Griya Rika Utama 5), Tajurhalang, Kabupaten Bogor 16320. Menampilkan menu lengkap, ulasan cita rasa asli ketupat daun janur alami, kuah rempah pekat, dan pemesanan online via GoFood, GrabFood, & ShopeeFood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
